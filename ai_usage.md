@@ -1,7 +1,6 @@
 # AI Usage Log — Mohamed Faisal Sindhi
 **Course Assignment:** Assignment 2 — GitHub Portfolio Page (Programming with AI)  
 **Student:** Mohamed Faisal Sindhi (GitHub: @MdFaisalS2025)  
-**Date:** 2025-09-25
 
 This log documents *exactly* where and how I used AI tools (ChatGPT, and optionally Copilot) to plan, design, implement, and polish my GitHub Pages portfolio. For each entry, I list the **prompt/intent**, **what the AI produced**, **what I kept/edited**, and **how I verified** the output. I also include links to final files and integrity notes.
 
@@ -74,9 +73,3 @@ This log documents *exactly* where and how I used AI tools (ChatGPT, and optiona
 - Any third-party references or tutorials were used only for learning patterns; I wrote and adapted the final code myself.
 
 ---
-
-## Links (to include in PDF submission)
-- **Repository:** `https://github.com/MdFaisalS2025/portfolio-<your_net_id>`  
-- **Live Site:** `https://MdFaisalS2025.github.io/portfolio-<your_net_id>/`
-
-> Replace `<your_net_id>` with your actual NetID in both links.
